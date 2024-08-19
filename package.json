@@ -6,9 +6,9 @@
   "homepage": "https://soilai.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmurawsky/soil-react.git"
+    "url": "git+https://github.com/soilaidev/soil-react.git"
   },
-  "bugs": "https://github.com/dmurawsky/soilai-react/issues",
+  "bugs": "https://github.com/soilaidev/soil-react/issues",
   "license": "MIT",
   "keywords": [
     "ai",
