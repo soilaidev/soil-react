@@ -49,10 +49,10 @@ react@^18.3.1:
   dependencies:
     loose-envify "^1.1.0"
 
-soilai@^0.0.44:
-  version "0.0.44"
-  resolved "https://registry.yarnpkg.com/soilai/-/soilai-0.0.44.tgz#a545f24cb2711742349c315fa2c481cb1f06e272"
-  integrity sha512-rrtSMLdLI/dp8uW2CKcKsU6CIYGlHnhvgLmn7U8KrRwxXqlwBHf1+Gew4jbdMorrkqJOHo/8Nv2zHfJgVM1CSg==
+soilai@^0.0.45:
+  version "0.0.45"
+  resolved "https://registry.yarnpkg.com/soilai/-/soilai-0.0.45.tgz#e782c0efa44b3a3d69408fa3a3587a631e3b4ee9"
+  integrity sha512-PpkHS0IVdINM3bImR6znSX8Si59O67tThskwjvjEHRDVifdTg8XVZc1s04T3c2Fh09yrCeL8I5ffXhGZfqgd/g==
   dependencies:
     dotenv "^16.4.5"
     ignore "^5.3.1"
